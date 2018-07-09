@@ -1,2 +1,2 @@
 # Try-to-study-C-
-I create a C file, and type an instruction to show "hello world."
+I created a C file, and typed an instruction to show "hello world."
