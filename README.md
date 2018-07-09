@@ -1,3 +1,2 @@
 # Try-to-study-C-
-Create a C++ file. 
-Using an instruction to show "hello world."
+I create a C file, and type an instruction to show "hello world."
